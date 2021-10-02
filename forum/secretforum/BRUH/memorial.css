@@ -1,0 +1,20 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+
+body{
+    height:100%;
+    background-image:url("https://opengameart.org/sites/default/files/seamless%20space_0.PNG");
+    background-size: auto 100%;
+    background-position: left top;
+    color:white;
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+p{
+    font: 1.0rem Inconsolata, monospace;
+}

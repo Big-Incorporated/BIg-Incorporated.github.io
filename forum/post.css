@@ -1,0 +1,16 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    color:white;
+    background-image:url("https://opengameart.org/sites/default/files/seamless%20space_0.PNG");
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.inlabel{
+    font-size:20px;
+}

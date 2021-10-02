@@ -1,0 +1,7 @@
+
+# HTID:16493596: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd5/069/15213069/public_html/forum/secretforum/accountdata/.htpasswd"
+Require user Garf
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:16493596:

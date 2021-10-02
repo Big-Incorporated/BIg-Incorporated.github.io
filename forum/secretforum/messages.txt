@@ -1,0 +1,5 @@
+<p style='border:3px; border-style:solid; border-color:#FF0000; padding: 1em;'>Garf: <br> You did it! <img width = '15' height='15'src='https://media1.giphy.com/media/gLWFIctRy4elNhTmvm/giphy.gif'></img><br></p>
+<p style='border:3px; border-style:solid; border-color:#FF0000; padding: 1em;'>Sign: <br> Ayy<br></p>
+<p style='border:3px; border-style:solid; border-color:#FF0000; padding: 1em;'>rae_is_kinda_gae: <br> pog. champ.<br></p>
+<p style='border:3px; border-style:solid; border-color:#FF0000; padding: 1em;'>Garf: <br> testing php here<br></p>
+<p style='border:3px; border-style:solid; border-color:#FF0000; padding: 1em;'>Garf: <br> pogchamp <img width = '15' height='15'src='https://static-cdn.jtvnw.net/emoticons/v2/81273/default/light/2.0'></img> <img width = '15' height='15'src='https://media1.giphy.com/media/gLWFIctRy4elNhTmvm/giphy.gif'></img><br></p>

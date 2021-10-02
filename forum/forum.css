@@ -1,0 +1,10 @@
+body{
+    background:url("https://opengameart.org/sites/default/files/seamless%20space_0.PNG");
+    background-attachment: fixed;
+}
+
+.post{
+    background-color:#262C39;
+    color:white;
+    font: 1.0rem Inconsolata, monospace;
+}

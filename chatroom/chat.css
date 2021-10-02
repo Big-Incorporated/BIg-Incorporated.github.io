@@ -1,0 +1,50 @@
+#textdiv{
+    height:500px;
+    width:700px;
+    overflow:scroll;
+    overflow:hidden;
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translateX(-50%) translateY(-50%);
+    background-color:#262C39;
+    border-radius:25px;
+}
+
+#text{
+    height:450px;
+    width:635px;
+    overflow:scroll;
+    overflow:hidden;
+    border-style:solid;
+    position:absolute;
+    left:4%;
+    color:white;
+    font: 1.0rem Inconsolata, monospace;
+    border-radius:25px;
+}
+
+#styledform{
+    color:white;
+}
+
+#uname{
+    width: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#message{
+    width: 250px;
+    height: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    resize:none;
+}
+body{
+    background:url("https://opengameart.org/sites/default/files/seamless%20space_0.PNG");
+}
